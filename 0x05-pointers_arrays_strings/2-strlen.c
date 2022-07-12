@@ -1,4 +1,3 @@
-
 #include "main.h"
 #include <string.h>
 /**
@@ -15,4 +14,4 @@ int _strlen(char *s)
 		len += 1;
 	}
 	return (len);
-}
+}}
